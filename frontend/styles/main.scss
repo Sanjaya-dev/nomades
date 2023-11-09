@@ -42,3 +42,38 @@ body {
         color: #fff;
     }
 }
+
+// end navbar
+
+// start header
+header {
+    padding: 180px 0 165px;
+    margin-top: -70px;
+    background-image: url('../images/header-background@2x.jpg');
+    background-size: cover;
+    
+    h1,p {
+        color: #fff;
+    }
+
+    h1 {
+        font-family: 'playfair Display','serif';
+        font-weight: bold;
+        font-size: 50px;
+    }
+
+    p {
+        font-size: 22px;
+    }
+
+    .btn-get-started {
+        background-color: #FF9E53;
+        color: #FFF;
+
+        &:hover {
+            background-color: #FFAA59;
+            color: #FFF;
+        }
+    }
+
+}

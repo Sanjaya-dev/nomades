@@ -31,4 +31,30 @@ body {
 .btn-login:hover {
   background-color: #1e3771;
   color: #fff;
+}
+
+header {
+  padding: 180px 0 165px;
+  margin-top: -70px;
+  background-image: url("../images/header-background@2x.jpg");
+  background-size: cover;
+}
+header h1, header p {
+  color: #fff;
+}
+header h1 {
+  font-family: "playfair Display", "serif";
+  font-weight: bold;
+  font-size: 50px;
+}
+header p {
+  font-size: 22px;
+}
+header .btn-get-started {
+  background-color: #FF9E53;
+  color: #FFF;
+}
+header .btn-get-started:hover {
+  background-color: #FFAA59;
+  color: #FFF;
 }/*# sourceMappingURL=main.css.map */
