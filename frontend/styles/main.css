@@ -372,4 +372,27 @@ h3 {
   width: 45px;
   height: 45px;
   float: left;
+}
+
+.section-success {
+  height: 90vh;
+}
+.section-success h1 {
+  font-weight: 600;
+  font-size: 28px;
+  color: #071c4d;
+}
+.section-success p {
+  font-weight: 300;
+  font-size: 18px;
+  color: #b1b1b1;
+}
+.section-success .btn-home-page {
+  border-radius: 4px;
+  background-color: #071c4d;
+  color: #fff;
+}
+.section-success .btn-home-page:hover {
+  background-color: #2a488e;
+  color: #fff;
 }/*# sourceMappingURL=main.css.map */
