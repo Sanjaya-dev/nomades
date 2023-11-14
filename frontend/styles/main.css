@@ -250,6 +250,47 @@ header .btn-get-started:hover {
   font-size: 18px;
   color: #b1b1b1;
 }
+.card-details .trip-information .text-blue {
+  color: #071c4d;
+  font-weight: bold;
+}
+.card-details .trip-information .text-orange {
+  color: #ff9e53;
+  font-weight: bold;
+}
+.card-details .payment-instructions {
+  font-weight: 300;
+  font-size: 14px;
+  color: #b1b1b1;
+}
+.card-details .bank-item {
+  font-size: 18px;
+  color: #071c4d;
+  margin-bottom: 0;
+}
+.card-details .bank-item p {
+  margin-bottom: 0;
+}
+.card-details .bank-item .bank-image {
+  width: 45px;
+  height: 45px;
+  float: left;
+}
+.card-details .bank-item .description {
+  margin-left: 10px;
+  overflow: hidden;
+  float: left;
+}
+.card-details .bank-item .description h3 {
+  font-weight: 300;
+  font-size: 18px;
+  color: #071c4d;
+}
+.card-details .bank-item .description p {
+  font-weight: normal;
+  font-size: 14px;
+  color: #071c4d;
+}
 
 h3 {
   font-weight: 600;
